@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Automatas\bin\Debug\Automatas.exe.config
+C:\Users\USER\source\repos\Automatas\bin\Debug\Automatas.exe
+C:\Users\USER\source\repos\Automatas\bin\Debug\Automatas.pdb
+C:\Users\USER\source\repos\Automatas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\source\repos\Automatas\obj\Debug\Automatas.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Automatas\obj\Debug\Automatas.Form1.resources
+C:\Users\USER\source\repos\Automatas\obj\Debug\Automatas.Properties.Resources.resources
+C:\Users\USER\source\repos\Automatas\obj\Debug\Automatas.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Automatas\obj\Debug\Automatas.csproj.CopyComplete
+C:\Users\USER\source\repos\Automatas\obj\Debug\Automatas.exe
+C:\Users\USER\source\repos\Automatas\obj\Debug\Automatas.pdb
